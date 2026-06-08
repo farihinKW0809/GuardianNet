@@ -1,0 +1,28 @@
+# Linux user files
+.bash*
+.cache/
+.config/
+.local/
+.mozilla/
+.thunderbird/
+Downloads/
+Pictures/
+
+# Ollama
+.ollama/
+
+# Python
+__pycache__/
+*.pyc
+*.swp
+
+# Dataset
+guardian_dataset.csv
+guardian_dataset_clean.csv
+guardian_normal_500.csv
+
+# Models
+*.pkl
+
+# Backup files
+*.save
